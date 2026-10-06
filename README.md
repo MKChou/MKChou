@@ -1,16 +1,15 @@
-## Hi there 👋
+## Chou, Ming-Kun
 
-<!--
-**MKChou/MKChou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+National Cheng Kung University, Tainan. I work on speech recognition and embedded AI.
 
-Here are some ideas to get you started:
+**Research**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DRPF](https://github.com/MKChou/DRPF-rocling2026): probe sets and scoring code for ASR deployment risk (ROCLING 2026)
+- [DST-FallNet](https://github.com/MKChou/DST-FallNet): real-time multimodal fall detection on Jetson Nano
+
+**Projects**
+
+- [Adaptive Ground Calibration Cane](https://github.com/MKChou/adaptive-calibration-cane): smart cane on STM32 + ESP32
+- [Nemotron local STT](https://github.com/MKChou/nemotron-local-stt-test): on-device speech-to-text
+
+Website: https://mk-chou.com/ · ORCID: [0009-0003-9377-6130](https://orcid.org/0009-0003-9377-6130)
